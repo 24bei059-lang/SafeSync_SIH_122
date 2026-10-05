@@ -1,0 +1,6 @@
+{
+  "name": "SiteSync – Planning-to-Execution Bridge",
+  "description": "EPC infrastructure project management platform bridging Primavera/MS Project schedules with messy field daily progress reports, fuzzy matching, and institutional memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
